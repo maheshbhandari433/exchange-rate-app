@@ -15,7 +15,7 @@ The Currency Exchange Rate Converter provides users with a convenient way to con
 
 ## Live URL
 
-You can access the live version of the Currency Exchange Rate Converter [here](#). 
+You can access the live version of the Currency Exchange Rate Converter [here](https://currency-convert-rates.netlify.app).
 
 ## Usage
 
